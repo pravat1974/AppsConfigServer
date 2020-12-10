@@ -5,8 +5,8 @@ spring:
           clone-on-start: true
           skip-ssl-validation: true
           timeout: 4
-          username: pravat_sahoo@hotmail.com
-          password: 123@kar@123
+          username: myuse
+          password: imuser
    
   application:
     name: config-server
