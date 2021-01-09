@@ -1,11 +1,11 @@
 spring:
   cloud:    config:      server: 
-        git:          uri: https://github.com/pravat1974/configServer
+        git:          uri: https://github.com/pravat1974/AppConfigData
           clone-on-start: true
           skip-ssl-validation: true
-          timeout: 4
-          username: myuse
-          password: imuser
+          timeout: 400
+          username: pravat_sahoo@hotmail.com
+          password: 123@Kar@123
  
   application:
     name: config-server
